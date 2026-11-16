@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "CI/CD Starter",
-    "slug": "cicd-starter",
+    "name": "Cicd Showcase Ahrnuld",
+    "slug": "cicd-showcase-ahrnuld",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "dev.lecture.cicdstarter"
+      "bundleIdentifier": "io.github.pulutur.cicd-showcase-ahrnuld"
     },
     "android": {
       "adaptiveIcon": {
@@ -18,7 +18,7 @@
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
       "predictiveBackGestureEnabled": false,
-      "package": "dev.lecture.cicdstarter"
+      "package": "io.github.pulutur.cicd_showcase_ahrnuld"
     },
     "web": {
       "favicon": "./assets/favicon.png"
